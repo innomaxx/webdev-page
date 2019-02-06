@@ -3486,11 +3486,11 @@ input, select, textarea {
 				width: 18em;
 			}
 
-				#banner .content .image img {
+				/* #banner .content .image img {
 					border-radius: 100%;
 					display: block;
 					width: 100%;
-				}
+				} */
 
 	body.is-touch #banner {
 		background-attachment: scroll;

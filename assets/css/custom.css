@@ -1,0 +1,9 @@
+
+.my-photo_wrap {
+  background: url("../../images/pic01.jpg");
+}
+
+.my-photo_wrap img {
+  width: 100%;
+  padding: 75px;
+}
